@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HotBeans Web</title>
+<link href="css/multiColumnTemplate.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+</html>
+
+	{
+    color: #D6BD9F;
+}
+a:link {
+    color: #D6BD9F;
+}
+a:visited {
+    color: #D6BD9F;
+}
+a:hover {
+    color: #D6BD9F;
+}
+a:active {
+    color: #D6BD9F;
+}
+</style>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body text="#D6BD9F" link="#D6BD9F" vlink="#D6BD9F" alink="#D6BD9F">
+<div class="container">
+  <header>
+    <div class="primary_header">
+      <h1 class="title"> HotBeans Web&nbsp;</h1>
+    </div>
+   <nav class="secondary_header" id="menu">
+       <ul>
+        <li><a href="home.html">WELCOME TO THE HOT BEANS WEBSITE HOMEPAGE!</li>
+        <li><a href="abouts us page.html">About Us</a></li>
+		  <li><a href="staff profile page.html">Staff Profiles</a></li>
+		  <li><a href="application form page.html">Job Applications</a></li>
+		  <li><a href="online courses page.html">Web Courses</a></li>
+      </ul>
+    </nav>
+    </nav>
+</header>
+  <section>
+    <h2 class="noDisplay">Main Content</h2>
+    <article class="left_article">
+      <h3><strong>content heading</strong></h3>
+<p><strong>&nbsp;Welcome to Hot Beans Web At Hot Beans Web, we specialize in crafting modern, responsive, and user-friendly websites tailored to meet the needs of businesses and individuals. Our team of passionate developers and designers is dedicated to delivering high-quality digital solutions that drive results. Whether you're looking to build your online presence, enhance user experience, or join a dynamic team of developers, Hot Beans Web is the place to grow and innovate.
+<aside class="right_article"> </aside>
+  </section>
+  <div class="row">
+    <div class="columns">
+      <p class="thumbnail_align"> <img src="OneDrive_2025-06-19/hotbeans v3/WEBSITE EMPLOYE AVA.jpg" alt="" class="thumbnail"/> </p>
+      <h4>Ava Thompson – Front-End Develope</h4>
+      <p>&nbsp;</p>
+    </div>
+    <div class="columns">
+      <p class="thumbnail_align"> <img src="OneDrive_2025-06-19/hotbeans v3/WEBSITE EMPLOYEE LIAM.jpg" alt="" class="thumbnail"/> </p>
+      <h4>Liam Patel – Back-End Developer</h4>
+      <p>&nbsp;</p>
+    </div>
+    <div class="columns">
+      <p class="thumbnail_align"> <img src="OneDrive_2025-06-19/hotbeans v3/website employees 2.jpg" alt="" class="thumbnail"/> </p>
+      <h4>Sophie Nguyen – UX/UI Designer</h4>
+      <p>&nbsp;</p>
+    </div>
+    <div class="columns">
+      <p class="thumbnail_align"> <img src="OneDrive_2025-06-19/hotbeans v3/website employees.jpg" alt="" class="thumbnail"/> </p>
+      <h4>Ethan Brooks – Full-Stack Developer</h4>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+  <div class="row blockDisplay">
+    <div class="column_half left_half">
+      <h2 class="column_title">&nbsp;</h2>
+    </div>
+    <div class="column_half right_half">
+      <h2 class="column_title">&nbsp;</h2>
+    </div>
+  </div>
+  <div class="social">
+    <p class="social_icon">&nbsp;</p>
+    <p class="social_icon">&nbsp;</p>
+    <p class="social_icon">&nbsp;</p>
+    <p class="social_icon">&nbsp;</p>
+  </div>
+  <footer class="secondary_header footer">
+    <div class="copyright">&copy;2024 - <strong>SIMPLE Theme</strong></div>
+  </footer>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>
